@@ -7,7 +7,7 @@ TheraCanvas is an innovative, AI-powered rehabilitation system designed to impro
 ## 📜 Patent Details
 
 - **Title**: A System for Rehabilitation Therapy of Patients
-- **Patent Number**: [202521037648](https://ipindiaservices.gov.in/publicsearch/)
+- **Patent Number**: [202521037648](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
 - **Status**: Published in the Patent Journal on 16/05/2025
 
 ---
